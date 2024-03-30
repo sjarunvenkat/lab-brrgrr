@@ -2,7 +2,7 @@
 
 # Ouput
 
-![](https://github.com/sjarunvenkat/sjarunvenkat/lab-brrgrr/tree/main/brrgrr.gif)
+![](https://github.com/sjarunvenkat/lab-brrgrr/blob/main/brrgrr.gif)
 
 # About
 
