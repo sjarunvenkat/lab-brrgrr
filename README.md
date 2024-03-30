@@ -1,10 +1,17 @@
 # Lab | BRRRGRRR
 
-Mama Jenny is the best cook you would ever met. She makes the most amazing burgers in her tiny diner across the street. Mama is extremely popular and has recently had the idea to take her business online. Unfortunately, she isn't the best at web development. Mama has heard of Kalvians and she thought you could do a great job. 
+# Ouput
+
+![](https://github.com/sjarunvenkat/sjarunvenkat/lab-brrgrr/tree/main/brrgrr.gif)
+
+# About
+
+Mama Jenny is the best cook you would ever met. She makes the most amazing burgers in her tiny diner across the street. Mama is extremely popular and has recently had the idea to take her business online. Unfortunately, she isn't the best at web development. Mama has heard of Kalvians and she thought you could do a great job.
 
 Help Mama create a website that'll attract more audience and help her make a living through it. Go to the `src/app.js` file and complete all the unfinished code to let her live here dream.
 
 ## What should you do
+
 ```
 Fork this repo
 Clone this repo
